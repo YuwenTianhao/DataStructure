@@ -1,0 +1,13 @@
+# ninja log v5
+2	131	7016277050773933	CMakeFiles/Homework3.dir/line.c.obj	d2549394fd30436d
+185	443	7041989052878435	Homework3.exe	1e42e4d5a8119f9e
+4	129	7040101562495623	CMakeFiles/Homework3.dir/CircularLinkedList.c.obj	89020642d53ff645
+3	271	7018069071801037	CMakeFiles/Homework3.dir/dictionary.c.obj	ca6d930c40880c6e
+4	151	7024837455173839	CMakeFiles/Homework3.dir/memory.c.obj	62f01ed64135e54
+6	299	7017189914799934	CMakeFiles/Homework3.dir/multi.c.obj	729abe024b52a04
+4	212	7024992347127418	CMakeFiles/Homework3.dir/LinkedList.c.obj	55867c8701b4b206
+3	145	7040180352878376	CMakeFiles/Homework3.dir/memory1.c.obj	bfdd5ed0a5889f70
+4	265	7025002301827026	CMakeFiles/Homework3.dir/encode.c.obj	9a49027ce4d04633
+3	183	7041989050378407	CMakeFiles/Homework3.dir/dictionary1.c.obj	9adee1338f253591
+10	428	7093313553820642	CMakeFiles/Homework3.dir/dictionary1.c.obj	9adee1338f253591
+430	900	7093313558420639	Homework3.exe	1e42e4d5a8119f9e

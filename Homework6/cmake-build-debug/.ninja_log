@@ -1,0 +1,8 @@
+# ninja log v5
+3	128	7076713618002938	CMakeFiles/Homework6.dir/find.c.obj	92d581392c88a505
+650	1420	7076771873010003	Homework6.exe	a2c594eaa6ea6ff8
+1	221	7094238512665215	build.ninja	e23bae9e81fb1156
+2	142	7071530366285775	CMakeFiles/Homework6.dir/test.c.obj	b9824a36fe7a3d4f
+2	127	7072093426815086	CMakeFiles/Homework6.dir/Lab5.c.obj	d6d936e6aca992db
+11	646	7076771865423878	CMakeFiles/Homework6.dir/sort.c.obj	2bf70aa911bb39aa
+2	126	7076639342873609	CMakeFiles/Homework6.dir/seat.c.obj	c9da2e955d2bab66

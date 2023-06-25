@@ -1,0 +1,11 @@
+# ninja log v5
+9	302	7036944546645142	CMakeFiles/Homework4.dir/outputf.c.obj	ae51d7586691fefb
+1	197	7024433938893056	CMakeFiles/Homework4.dir/main.c.obj	7f008804ce5a2151
+2	156	7093312650085616	build.ninja	6bf9bf447cd28f0
+0	243	7033333186330546	CMakeFiles/Homework4.dir/Stack.c.obj	4bb86d7ba038515b
+241	604	7037077725238666	Homework4.exe	691c7355d24ac6af
+8	122	7029182262085560	CMakeFiles/Homework4.dir/operation.c.obj	f7c05f0ae081fbc3
+3	106	7036004389675472	CMakeFiles/Homework4.dir/bracket.c.obj	1c1beaab4d344d8a
+4	676	7030779891899417	CMakeFiles/Homework4.dir/cal.c.obj	615d760a9498dd18
+10	407	7036948607101344	CMakeFiles/Homework4.dir/test.c.obj	d76eeeb20f54283c
+5	239	7037077721688875	CMakeFiles/Homework4.dir/bank.c.obj	92ef88dd7eb057db

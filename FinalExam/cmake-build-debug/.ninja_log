@@ -1,0 +1,10 @@
+# ninja log v5
+4	146	7079272063884063	CMakeFiles/FinalExam.dir/login.c.obj	d1f4be3bab48890e
+98	216	7087814175377645	FinalExam.exe	249c08d4b828649a
+6	415	7093125625910319	build.ninja	98049447428fa897
+3	163	7087049273574135	CMakeFiles/FinalExam.dir/inter.c.obj	6b154d19c7dfdf28
+0	644	7087723755898453	CMakeFiles/FinalExam.dir/test.c.obj	b9d24be776dad932
+4	185	7087210920739859	CMakeFiles/FinalExam.dir/run.c.obj	99e084beed8ab330
+2	98	7087814174277653	CMakeFiles/FinalExam.dir/same.c.obj	2061b557e5fc50b6
+3	100	7087782183675447	CMakeFiles/FinalExam.dir/path.c.obj	f5cb04d992c9fdea
+3	133	7087804604517764	CMakeFiles/FinalExam.dir/copy.c.obj	f0fc9d2810ad1ce1

@@ -1,0 +1,20 @@
+# ninja log v5
+1	141	7036514603134822	CMakeFiles/Homework5.dir/main.c.obj	33613c69f9086e13
+2705	3646	7061276442437859	Homework5.exe	b59482c350788e7d
+21	257	7043847236939344	CMakeFiles/Homework5.dir/adjust.c.obj	6505e8bc8234b168
+5	263	7042686104950301	CMakeFiles/Homework5.dir/bst.c.obj	dcb7d8ebd451bf67
+2	97	7042713143456434	CMakeFiles/Homework5.dir/dictionary.c.obj	fa7ff28e24c3359d
+11	1198	7043736178155298	CMakeFiles/Homework5.dir/ExpressionTree.c.obj	bb073e3d4194e662
+6	2702	7061276432974662	CMakeFiles/Homework5.dir/huffman2student.c.obj	bcc4e2bc89f305e4
+2	318	7093312158799653	CMakeFiles/Homework5.dir/dictionary.c.obj	fa7ff28e24c3359d
+322	720	7093312162699659	Homework5.exe	a2a4f8855b3ed769
+3	1001	7093606216718437	CMakeFiles/Homework5.dir/dictionary.c.obj	fa7ff28e24c3359d
+1003	1608	7093606222718797	Homework5.exe	a2a4f8855b3ed769
+2	127	7093606515603419	CMakeFiles/Homework5.dir/dictionary.c.obj	fa7ff28e24c3359d
+127	254	7093606516803399	Homework5.exe	a2a4f8855b3ed769
+19	252	7093607181313005	CMakeFiles/Homework5.dir/dictionary.c.obj	fa7ff28e24c3359d
+253	617	7093607184914489	Homework5.exe	a2a4f8855b3ed769
+4	255	7093614009716058	CMakeFiles/Homework5.dir/dictionary.c.obj	fa7ff28e24c3359d
+258	659	7093614013238657	Homework5.exe	a2a4f8855b3ed769
+4	183	7093616825428353	CMakeFiles/Homework5.dir/dictionary.c.obj	fa7ff28e24c3359d
+184	408	7093616827626698	Homework5.exe	a2a4f8855b3ed769
